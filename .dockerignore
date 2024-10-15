@@ -1,0 +1,5 @@
+# Ignore the .git directory
+.git
+# Ignore any local files that shouldn't be in the container
+*.log
+*.md
